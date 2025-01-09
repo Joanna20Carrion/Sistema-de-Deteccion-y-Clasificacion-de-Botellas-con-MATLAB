@@ -37,11 +37,18 @@ Este proyecto implementa un sistema para detectar y clasificar objetos (botellas
 - Precisión cercana al 100% en la mayoría de los colores.
 - Identificación clara de tapas y líquidos, con indicación de filas y tamaños.
 
+## Autor
+**Joanna Alexandra Carrión Pérez**: Bachiller de Ingeniería Electrónica. Apasionada por la Ciencia de Datos y la Inteligencia Artificial. [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
+
 ## Contribuidores
-- Joanna Alexandra Carrión Pérez
 - Katherine Saady Condor Oscanoa
 - Jean Pierre Michael Cueva Rivadeneyra
 - Walther Daniel Retuerto Carrillo
 - Anthony Diego Santillán Romualdo
 - Alexander Jheremyt Salazar Requena
 
+## Contacto
+Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
+
+## Contribuciones
+¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request.
