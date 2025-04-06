@@ -1,4 +1,4 @@
-# Sistema de Detección y Clasificación de Objetos con MATLAB
+# Sistema de Detección y Clasificación de Objetos con MATLAB 
 
 ## Descripción
 Este proyecto implementa un sistema para detectar y clasificar objetos (botellas) basados en su color y tamaño, utilizando técnicas avanzadas de procesamiento de imágenes en MATLAB. El sistema es capaz de identificar tapas de botellas y líquidos de diferentes colores, mostrando los resultados en una interfaz visual interactiva.
