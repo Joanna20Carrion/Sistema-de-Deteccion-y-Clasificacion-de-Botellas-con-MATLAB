@@ -1,54 +1,104 @@
-# Sistema de Detección y Clasificación de Objetos con MATLAB 
+# 🧪 Sistema de Detección y Clasificación de Objetos con MATLAB
 
-## Descripción
-Este proyecto implementa un sistema para detectar y clasificar objetos (botellas) basados en su color y tamaño, utilizando técnicas avanzadas de procesamiento de imágenes en MATLAB. El sistema es capaz de identificar tapas de botellas y líquidos de diferentes colores, mostrando los resultados en una interfaz visual interactiva.
+![MATLAB](https://img.shields.io/badge/MATLAB-2023b+-orange?style=flat&logo=mathworks)
+![Clasificación](https://img.shields.io/badge/Clasificación-Color_y_Tamaño-blue?style=flat)
+![Sistema Operativo](https://img.shields.io/badge/Sistema-Windows-lightgrey?style=flat&logo=windows)
+![Precisión](https://img.shields.io/badge/Precisión-~100%25-success?style=flat)
+![Licencia](https://img.shields.io/badge/Licencia-Personal-red)
 
-## Objetivos
-- Detectar objetos y clasificarlos por color (rojo, azul, verde, amarillo, etc.).
-- Determinar el tamaño y la fila de cada objeto.
-- Identificar líquidos dentro de las botellas y medir su altura.
+---
 
-## Requisitos
-- **Software:** MATLAB 2023b o superior.
-- **Hardware:** 
-  - Computador con Windows.
-  - Cámara web Infinity - MIC W300.
-  - Tira de luces LED con transformador de 12V/5A.
-- **Materiales:** Botellas y tintes de diversos colores.
+## 📌 Descripción
 
-## Características principales
-- **Interfaz Visual:** 
-  - Muestra video en vivo y resultados de procesamiento.
-  - Funcionalidades de captura de imagen, procesamiento y visualización de resultados.
-- **Procesamiento de Imágenes:**
-  - Segmentación y generación de máscaras de color.
-  - Operaciones morfológicas para mejorar la detección.
-  - Clasificación de objetos por tamaño y color.
-- **Resultados:** 
-  - Matriz de confusión y porcentajes de error para la detección.
+Este proyecto implementa un sistema para **detectar y clasificar botellas** por **color, tamaño y altura del líquido**, usando técnicas de **procesamiento de imágenes** en **MATLAB**. La interfaz visual muestra resultados en tiempo real con video en vivo.
 
-## Instrucciones de Uso
-1. Conecta la cámara al sistema y enciende la iluminación adecuada.
-2. Inicia el sistema desde MATLAB.
-3. Usa los botones en la interfaz para capturar imágenes y procesarlas.
-4. Visualiza los resultados, incluyendo conteos por color, tamaño y alineación de líquidos.
+---
 
-## Resultados
-- Precisión cercana al 100% en la mayoría de los colores.
-- Identificación clara de tapas y líquidos, con indicación de filas y tamaños.
+## 🎯 Objetivos
 
-## Autor
-**Joanna Alexandra Carrión Pérez**: Bachiller de Ingeniería Electrónica. Apasionada por la Ciencia de Datos y la Inteligencia Artificial. [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
+- Detectar objetos y clasificarlos por **color** (rojo, azul, verde, amarillo, etc.).
+- Determinar el **tamaño** y la **fila** de cada objeto.
+- Medir la **altura del líquido** dentro de las botellas.
 
-## Contribuidores
-- Katherine Saady Condor Oscanoa
-- Jean Pierre Michael Cueva Rivadeneyra
-- Walther Daniel Retuerto Carrillo
-- Anthony Diego Santillán Romualdo
+---
+
+## 💻 Requisitos
+
+- **Software:** MATLAB 2023b o superior  
+- **Hardware:**
+  - Computadora con Windows
+  - Cámara web **Infinity - MIC W300**
+  - **Tira LED** con transformador 12V/5A
+- **Materiales:**
+  - Botellas de plástico
+  - Tintes líquidos de distintos colores
+
+---
+
+## 🧠 Características Principales
+
+### Interfaz Visual
+- Transmisión de **video en vivo**
+- Captura, procesamiento y visualización de resultados
+
+### Procesamiento de Imágenes
+- **Segmentación por color**
+- **Máscaras y operaciones morfológicas**
+- Clasificación por **color y tamaño**
+
+### Resultados
+- **Conteo de botellas** por color y fila
+- Medición de **altura de líquido**
+- **Matriz de confusión** y análisis de precisión
+
+---
+
+## ▶️ Instrucciones de Uso
+
+1. Conecta la cámara y asegúrate de buena iluminación (LEDs encendidos).
+2. Abre el entorno en **MATLAB**.
+3. Inicia la interfaz visual desde el script principal.
+4. Usa los botones para:
+   - Capturar imagen
+   - Procesar señal
+   - Visualizar resultados (color, tamaño, altura)
+
+---
+
+## 📊 Resultados
+
+- **Precisión:** cercana al **100%** en identificación por color.
+- Clasificación precisa de **tapas y líquidos**.
+- Muestra **tamaño**, **fila** y **altura del contenido líquido**.
+
+---
+
+## 👤 Autor
+
+**Joanna Alexandra Carrión Pérez**  
+🎓 Bachiller en Ingeniería Electrónica  
+💡 Apasionada por Ciencia de Datos e Inteligencia Artificial  
+🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carrión%20Pérez-blue?style=flat&logo=linkedin) [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
+
+---
+
+## 🤝 Contribuidores
+
+- Katherine Saady Condor Oscanoa  
+- Jean Pierre Michael Cueva Rivadeneyra  
+- Walther Daniel Retuerto Carrillo  
+- Anthony Diego Santillán Romualdo  
 - Alexander Jheremyt Salazar Requena
 
-## Contacto
-Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
+---
 
-## Contribuciones
-¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request.
+## 📬 Contacto
+
+📧 **joannacarrion14@gmail.com**
+
+---
+
+## 💡 Contribuciones
+
+¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, haz un fork del repo y envía un **pull request**. 🚀
+
